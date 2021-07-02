@@ -8,7 +8,7 @@
         </li>
       </ol>
     </div>
-    <Nuxt-link to="/"> 戻る </Nuxt-link>
+    <TopLink />
   </div>
 </template>
 
