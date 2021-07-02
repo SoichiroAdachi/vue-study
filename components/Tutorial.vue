@@ -69,6 +69,9 @@
         <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
           <Nuxt-link to="/conditionalsAndLoops">条件分岐とループ</Nuxt-link>
         </p>
+        <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
+          <Nuxt-link to="/handlingUserInput">ユーザー入力の制御</Nuxt-link>
+        </p>
       </div>
       <div class="flex justify-center pt-4 space-x-2">
         <a href="https://github.com/SoichiroAdachi/vue-study" target="_blank"
